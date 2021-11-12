@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fruktur&display=swap');
+
+h1{
+    display: block;
+    font-size: 40px;
+    color: darkred;
+    text-align: center;
+    font-family: 'Fruktur', cursive;
+}

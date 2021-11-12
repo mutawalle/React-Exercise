@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fruktur&display=swap');
+
+.film {
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: pink;
+    font-family: 'Dancing Script', cursive;
+}
+
+img{
+    width: 140px;
+    height: 200px;
+}
+
+p.judul {
+    font-size: 20px;
+    font-weight: bold;
+}

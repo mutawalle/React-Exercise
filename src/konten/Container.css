@@ -1,0 +1,8 @@
+.Container {
+    width: 90%;
+    margin: 20px auto;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: wheat;
+    border-radius: 5px;
+}
