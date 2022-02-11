@@ -1,3 +1,2 @@
 # React-Exercise
-
-Latihan menggunakan framework react
+Ini merupakan salah satu tugas dari GDSC ITB
